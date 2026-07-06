@@ -1,123 +1,116 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Hasan+%F0%9F%91%8B;Web+Developer;CyberSecurity+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hasan H</h1>
 
 <p align="center">
-  <i>🚀 Crafting digital experiences from Indonesia 🇮🇩</i>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasanH47&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-</div>
-
-<!-- Last Updated Section -->
-<div align="center">
-  <h3>🕒 Last Updated</h3>
-  <code><!--TIMESTAMP-->2026-07-06 08:17:31<!--TIMESTAMP_END--></code>
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About Me Section -->
-<h2 align="center">🌟 About Me</h2>
-
-<img align="right" width="300" src="https://i.imgflip.com/8g7pdi.gif" />
-
-```javascript
-const hasan = {
-  location: "Indonesia 🇮🇩",
-  role: "Web Developer & CyberSecurity Enthusiast",
-  interests: [
-    "Web Development",
-    "Cybersecurity",
-    "Open Source",
-    "Problem Solving"
-  ],
-  currentlyLearning: [
-    "Advanced Security Practices",
-    "Cloud Architecture",
-    "DevOps"
-  ],
-  funFact: "I debug with console.log and refuse to admit it 😅"
-};
-```
-
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Technology Arsenal</h2>
-
-<div align="center">
-  
-  **Frontend Development**
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-  **Backend Development**
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  
-  **Databases**
-  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  **Tools & Others**
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-</div>
-
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasanH47&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HasanH47&show_icons=true&theme=tokyonight" />
+  <strong>Backend & DevOps Engineer from Indonesia</strong><br>
+  Building deployment platforms, reliable infrastructure, and AI-assisted developer systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanH47&layout=compact&theme=tokyonight&langs_count=6" />
+  <code>Backend Engineering</code>
+  <code>DevOps & Infrastructure</code>
+  <code>Deployment Platforms</code>
+  <code>AI-assisted Systems</code>
 </p>
 
-<!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect!</h2>
+---
+
+I am Hasan, a backend and DevOps-minded engineer from Indonesia.
+
+I work around Laravel, PostgreSQL, Docker, Linux servers, CI/CD, observability, and deployment automation. I also have a security-aware background, which mostly shows up in how I think about system boundaries, operational risk, and failure modes.
+
+I like building systems that make deployment less painful, operations more observable, and developer workflows easier to trust.
+
+## Current Focus
+
+| Area | What I am building and exploring |
+| --- | --- |
+| Sakala | A developer-friendly deployment platform that helps projects move from Git to a public URL with less manual VPS, SSL, reverse proxy, and Docker networking work. |
+| Backend & infrastructure reliability | Docker-based deployment, PostgreSQL-backed systems, Linux server operations, CI/CD, logs, metrics, tracing, and monitoring. |
+| AI-assisted developer systems | RAG, local LLM workflows, automation, and agentic tooling for engineering tasks. |
+
+## Engineering Principles
+
+- Make systems understandable before making them complex.
+- Prefer reliable deployment over clever architecture.
+- Automate repetitive ops work.
+- Build tools that help people ship real things.
+
+## Selected Stack
+
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>PHP, Laravel, Node.js</td>
+  </tr>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>Linux, Docker, Caddy, Nginx, GitHub Actions, GitLab CI</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL, Redis, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td>Grafana, Loki, Promtail, Sentry, metrics, structured logging</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend support</strong></td>
+    <td>React, Vue, Svelte, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>AI & tooling</strong></td>
+    <td>Python, local LLMs, RAG, workflow automation</td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
+
+## Building
+
+| Project / Lab | Focus |
+| --- | --- |
+| Sakala | Git-to-public-URL deployment platform for developer-friendly shipping. |
+| DevOps / infra labs | Deployment automation, Docker workflows, Linux server operations, reverse proxy setup, and observability. |
+| AI systems experiments | RAG, local LLMs, agentic workflows, and practical automation for developer tooling. |
+
+## GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasanh47" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasanH47&show_icons=true&theme=github_dark&hide_border=true" alt="Hasan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanH47&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Hasan's top languages" />
+</p>
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/hasanh47">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://youtube.com/@hasanh47" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://youtube.com/@hasanh47">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/hasanh47_2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/hasanh47_2">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:info@hasanh.dev">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-info%40hasanh.dev-D14836?style=flat&logo=gmail&logoColor=white" alt="Email info@hasanh.dev" />
   </a>
 </p>
 
-<!-- Snake Animation -->
 <picture>
-  <img src="https://raw.githubusercontent.com/HasanH47/HasanH47/output/snake.svg" alt="Snake Game Contribution Animation" />
+  <img src="https://raw.githubusercontent.com/HasanH47/HasanH47/output/snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
-<!-- Dynamic Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
-</p>
-
-<!-- Footer -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+create+something+amazing+together!" alt="Typing SVG" />
+  <sub>Last updated: <!--TIMESTAMP_START-->2026-07-06 08:17:31<!--TIMESTAMP_END--> WIB</sub>
 </p>
